@@ -86,7 +86,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - RGB EFR
+  - {t: '$$mdi:transfer$$', type: trans}
   - <
   - RT
   - {t: '[', s: '{'}
