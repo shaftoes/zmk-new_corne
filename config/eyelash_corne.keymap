@@ -69,7 +69,7 @@
             bindings = <
 &kp TAB         &kp Q         &kp W        &kp E      &kp R       &kp T                &mmv MOVE_UP                  &kp Y        &kp U        &kp I      &kp O      &kp P     &kp BSLH
 &mt TILDE EQUAL &mt LSHIFT A  &mt LALT S   &mt LGUI D &mt LCTRL F &kp G  &mmv MOVE_LEFT  &mkp LCLK  &mmv MOVE_RIGHT  &kp H        &mo RCTRL J  &mo RGUI K &mo RALT L &kp SEMI  &kp SQT
-&kp LSHIFT      &kp Z         &kp X        &kp C      &kp V       &kp B                 &kp DOWN                     &kp N        &kp M        &kp COMMA  &kp DOT    &kp FSLH  &kp ESC
+&kp LSHIFT      &kp Z         &kp X        &kp C      &kp V       &kp B  &trans         &kp DOWN                     &kp N        &kp M        &kp COMMA  &kp DOT    &kp FSLH  &kp ESC
                                            &mo 2      &kp SPACE   &mo 1                                              &kp DEL      &lt 1 ESC    &kp ENTER
             >;
 
@@ -81,7 +81,7 @@
             bindings = <
 &trans    &kp EXCL  &kp AT   &kp HASH  &kp DLLR &kp PRCNT                  &mmv MOVE_UP                   &kp CARET        &kp AMPS  &kp STAR  &kp LPAR  &kp RPAR  &kp UNDER
 &kp PLUS  &kp 1     &kp 2    &kp 3     &kp 4    &kp 5       &mmv MOVE_LEFT  &mkp LCLK  &mmv MOVE_RIGHT    &kp 6            &kp 7     &kp 8     &kp 9     &kp 0     &kp MINUS
-&kp GRAVE &kp CARET &kp LBKT &kp RBKT  &trans   &trans                     &mmv MOVE_DOWN                 &rgb_ug RGB_EFR  &kp LT    &kp RT    &kp LBKT  &kp RBKT  &kp PIPE
+&kp GRAVE &kp CARET &kp LBKT &kp RBKT  &trans   &trans &trans              &mmv MOVE_DOWN                 &rgb_ug RGB_EFR  &kp LT    &kp RT    &kp LBKT  &kp RBKT  &kp PIPE
                                         &trans        &trans        &trans                                &trans           &trans    &trans
             >;
 
