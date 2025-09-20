@@ -89,7 +89,7 @@ layers:
   - RGB EFR
   - RGB SPI
   - RGB BRI
-  - RGB BRD
+  - '{'
   - '}'
   - '|'
   - {t: '$$mdi:transfer$$', type: trans}
