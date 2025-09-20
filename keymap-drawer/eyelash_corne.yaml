@@ -24,9 +24,9 @@ layers:
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - H
-  - '&mo RCTRL J'
-  - '&mo RGUI K'
-  - '&mo RALT L'
+  - {t: J, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: K, h: RGUI}
+  - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-control$$
