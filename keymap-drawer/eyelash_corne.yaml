@@ -14,19 +14,19 @@ layers:
   - O
   - P
   - {t: \, s: '|'}
-  - '&td0'
-  - A
-  - S
-  - D
-  - F
+  - {t: '=', h: '~', s: +}
+  - {t: A, h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: S, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: D, h: LGUI}
+  - {t: F, h: '$$mdi:apple-keyboard-control$$'}
   - G
-  - $$mdi:arrow-left-bold$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:arrow-right-bold$$
+  - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
+  - $$mdi:mouse-left-click-outline$$
+  - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - H
-  - J
-  - K
-  - L
+  - '&mo RCTRL J'
+  - '&mo RGUI K'
+  - '&mo RALT L'
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-control$$
