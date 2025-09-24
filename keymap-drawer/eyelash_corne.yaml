@@ -36,7 +36,7 @@ layers:
   - V
   - B
   - {t: '$$mdi:transfer$$', type: trans}
-  - $$mdi:arrow-down-bold$$
+  - '&mmv DOWN'
   - N
   - M
   - {t: ',', s: <}
@@ -46,7 +46,7 @@ layers:
   - SYMBOL
   - $$mdi:keyboard-space$$
   - NUMBER
-  - $$mdi:backspace-reverse-outline$$
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-esc$$', h: NUMBER}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   NUMBER:
