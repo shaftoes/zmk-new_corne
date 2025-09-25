@@ -20,6 +20,11 @@
     delay-ms = <0>;                   // 0
 };
 
+$mt {
+    flavor = "balanced";
+    require-prior-idle-ms = <125>;
+}
+
 &mmv {
     time-to-max-speed-ms = <500>;
     acceleration-exponent = <1>;
