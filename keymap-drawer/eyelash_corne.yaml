@@ -15,7 +15,7 @@ layers:
   - P
   - {t: \, s: '|'}
   - {t: '=', h: '~', s: +}
-  - {t: A, h: '$$mdi:apple-keyboard-shift$$'}
+  - A
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
   - {t: D, h: LGUI}
   - {t: F, h: '$$mdi:apple-keyboard-control$$'}
